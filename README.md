@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 - 👋 Hi, I’m @baxelson12 (Brad)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning everything there is to know about Angular
