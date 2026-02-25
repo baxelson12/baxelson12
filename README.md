@@ -1,6 +1,6 @@
 <h2>👨‍💻 A bit about me</h2>
 <p>
-  Hailing from Detroit, my journey through the tech landscape has been rich and varied, spanning roles from Senior to Lead Software Engineer. Over a 12-year span, I've honed a particular expertise in software architecture and web development, grounded in a robust background in IT and networking. Beyond the binaries and algorithms, I find my creative outlet in making music, a harmony of notes that complements my code.
+  Hi! I’m a Detroit-based software engineer with 12 years of experience across the stack, moving from senior roles into technical leadership. My background is rooted in IT and networking, which gives me a more architectural perspective on web development than your average dev. When I’m not building systems, I’m usually focused on music production. It’s the creative outlet that keeps the technical side of my brain in check.
 </p>
 
 <h2>🔧 Toolbox</h2>
@@ -19,53 +19,51 @@
 <h4>Frontend frameworks/platforms:</h4>
 
 ```yaml
-- ["Angular", "Angular.js", "React", "Svelte"]
+- ["Angular", "React"]
 ```
 
 
 <h4>Frontend tech/libraries:</h4>
 
 ```yaml
-- ["RxJS", "React Router", "React Hook Form", "Redux", "Bootstrap", "SASS", "TailwindCSS", "ThreeJS", "Web3.js", "Ethers.js"]
+- ["RxJS", "React Hook Form", "Redux", "SASS", "TailwindCSS", "ThreeJS", "Web3.js", "Ethers.js"]
 ```
 
 
 <h4>Backend frameworks:</h4>
 
 ```yaml
-- ["NestJS", "NodeJS", ".Net", "Apollo-GraphQL", "Deno", "Django", "Express", "Flash", "Ruby on Rails", "NextJS", "Remix"]
+- ["NestJS", "NodeJS", "Apollo-GraphQL", "Deno", "Express", "NextJS", "Remix"]
 ```
 
 
 <h4>Databases:</h4>
 
 ```yaml
-- ["DynamoDB", "Firebase", "MongoDB", "MySQL", "SQLite", "Postgres", "Redis"]
+- ["Firebase", "MongoDB", "MySQL", "SQLite", "Postgres", "Redis"]
 ```
 
 
 <h4>ORMs:</h4>
 
 ```yaml
-- ["Prisma"]
+- ["Prisma", "Drizzle"]
 ```
 
 
 <h4>Hosting/cloud:</h4>
 
 ```yaml
-- ["Cloudflare", "DigitalOcean", "Firebase", "Google Cloud Products", "Heroku", "Netlify", "Vercel"]
+- ["Cloudflare", "Firebase", "Google Cloud Products", "Heroku", "Netlify", "Vercel"]
 ```
 
 
 <h4>Devops:</h4>
 
 ```yaml
-- ["GitHub Actions", "TravisCI", "Bun", "NPM", "PNPM", "Docker", "ESLint", "Apache", "Nginx", "Gunicorn"]
+- ["GitHub Actions", "Bun", "NPM", "Docker", "ESLint", "Apache", "Nginx"]
 ```
 
-
-<p>...and many more;)</p>
 
 
 <h2>📋 Recent experiences</h2>
