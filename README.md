@@ -69,12 +69,12 @@
 <h2>📋 Recent experiences</h2>
 
 ```yaml
-- ["Director of Engineering", "AMM Liquidity Provisioning", "TXForge", "2024-Present"]
-- ["Lead Software Engineer", "Client Development Division", "NFTLAB", "2021-2023"]
-- ["Software Engineer", "Trade/Logomark Filing and Monitoring", "Brainbase", "2020-2021"]
-- ["Software Engineer", "Dropshipper Product Management", "Profitly", "2020"]
+- ["Lead Software Engineer", "AMM Liquidity Provisioning", "Greybeam Holdings", "2024-2026"]
+- ["Lead Software Engineer", "Client Development Division", "NFTLAB", "2021-2024"]
+- ["Software Engineer", "Trade/Logomark Filing and Monitoring", "Brainbase", "2021"]
+- ["Software Engineer", "Dropshipper Product Management", "Profitly", "2020-2021"]
 - ["Software Engineer", "HR Tooling", "Opteamize", "2020"]
-- ["Software Engineer", "Client Contracting", "Selenius", "2015-2019"]
+- ["Software Engineer", "Client Contracting", "Selenius", "2014-2020"]
 ```
 
 
