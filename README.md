@@ -1,10 +1,3 @@
-<h2>👨‍💻 A bit about me</h2>
-<p>
-  Hi! I’m a Detroit-based software engineer with 12 years of experience across the stack, moving from senior roles into technical leadership. My background is rooted in IT and networking, which gives me a more architectural perspective on web development than your average dev. When I’m not building systems, I’m usually focused on music production. It’s the creative outlet that keeps the technical side of my brain in check.
-</p>
-
-<h2>🔧 Toolbox</h2>
-
 <h4>Languages:</h4>
 
 ```yaml
@@ -65,19 +58,6 @@
 ```
 
 
-
-<h2>📋 Recent experiences</h2>
-
-```yaml
-- ["Lead Software Engineer", "AMM Liquidity Provisioning", "Greybeam Holdings", "2024-2026"]
-- ["Lead Software Engineer", "Client Development Division", "NFTLAB", "2021-2024"]
-- ["Software Engineer", "Trade/Logomark Filing and Monitoring", "Brainbase", "2021"]
-- ["Software Engineer", "Dropshipper Product Management", "Profitly", "2020-2021"]
-- ["Software Engineer", "HR Tooling", "Opteamize", "2020"]
-- ["Software Engineer", "Client Contracting", "Selenius", "2014-2020"]
-```
-
-
 <h2>📫 Get in touch</h2>
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/0xttl)
@@ -87,5 +67,5 @@
 
 <!---
 baxelson12/baxelson12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.  Anything you see in here, no you didn't.
 --->
